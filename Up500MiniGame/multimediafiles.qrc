@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>alien.png</file>
+        <file>ship.png</file>
+        <file>tir.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>Asound.wav</file>
+        <file>Pklams.wav</file>
+        <file>Shoot.wav</file>
+    </qresource>
+</RCC>
